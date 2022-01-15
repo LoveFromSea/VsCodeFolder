@@ -1,0 +1,83 @@
+{
+  "rootTopicKey": "64698c36-6d16-4815-9823-d9619ab5c6f6",
+  "editorRootTopicKey": "64698c36-6d16-4815-9823-d9619ab5c6f6",
+  "focusKey": "64698c36-6d16-4815-9823-d9619ab5c6f6",
+  "extData": {},
+  "topics": [
+    {
+      "key": "64698c36-6d16-4815-9823-d9619ab5c6f6",
+      "parentKey": null,
+      "subKeys": [
+        "0ca3106d-169e-4e59-af86-78dae739941d"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "MachineLearning"
+        }
+      ]
+    },
+    {
+      "key": "0ca3106d-169e-4e59-af86-78dae739941d",
+      "parentKey": "64698c36-6d16-4815-9823-d9619ab5c6f6",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "回归"
+        }
+      ]
+    }
+  ],
+  "config": {
+    "readOnly": false,
+    "allowUndo": true,
+    "layoutDir": 2,
+    "theme": {
+      "name": "default",
+      "randomColor": true,
+      "background": "rgb(57,60,65)",
+      "highlightColor": "#50C9CE",
+      "marginH": 60,
+      "marginV": 20,
+      "contentStyle": {
+        "lineHeight": "1.5",
+        "fontSize": "16px"
+      },
+      "linkStyle": {
+        "lineRadius": 5,
+        "lineType": "curve",
+        "lineWidth": "3px"
+      },
+      "rootTopic": {
+        "contentStyle": {
+          "fontSize": "36px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      },
+      "primaryTopic": {
+        "contentStyle": {
+          "fontSize": "24px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      },
+      "normalTopic": {
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      }
+    }
+  },
+  "formatVersion": null
+}
