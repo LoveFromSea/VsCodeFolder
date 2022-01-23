@@ -16,10 +16,10 @@
 $$ OH=\frac{H+2P-FH}{S}+1 \\ 
  OW=\frac{H+2P-FW}{S}+1$$
 - 3维数据当成多维数组来表示即为(channel,height,width)=(C,H,W)
-![](../Pic_markdown/four_dimensions.PNG)
+![](../pics/four_dimensions.PNG)
 - 批处理：
 > 将在各层间传递的数据保存为4维数据——(batch_num,channel,height,width)
-![](../Pic_markdown/add_batch_num.PNG)
+![](../pics/add_batch_num.PNG)
 
 - 池化层(Pooling)
 - 与之前卷积层的卷积运算一样：1.步幅，2.目标区域，“2×2”表示目标区域大小。3.一般来说，池化窗口大小会和步幅设定成相同的值。
