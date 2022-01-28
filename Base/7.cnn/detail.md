@@ -14,7 +14,8 @@
 - 这里，假设输入大小为(H, W)，滤波器大小为(FH, FW)，输出大小为
 (OH, OW)，填充为P，步幅为S。此时，输出大小可通过进行计算
 $$ OH=\frac{H+2P-FH}{S}+1 \\ 
- OW=\frac{H+2P-FW}{S}+1$$
+ OW=\frac{H+2P-FW}{S}+1\\
+ $$
 - 3维数据当成多维数组来表示即为(channel,height,width)=(C,H,W)
 ![](../pics/four_dimensions.PNG)
 - 批处理：
